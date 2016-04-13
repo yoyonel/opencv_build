@@ -1,4 +1,4 @@
 cd build
-make -j4
+make -j3
 sudo make install
 cd -
