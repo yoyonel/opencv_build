@@ -7,7 +7,7 @@
 # - http://stackoverflow.com/questions/31538560/qtopengl-no-such-file-or-directory-opencv-python
 sudo apt-get install \
 		build-essential cmake git pkg-config \
-		libjpeg8-dev libtiff4-dev libjasper-dev libpng12-dev \
+		libjpeg8-dev libjasper-dev libpng12-dev \
 		libgtk2.0-dev \
 		libatlas-base-dev gfortran \
 		python2.7-dev \
